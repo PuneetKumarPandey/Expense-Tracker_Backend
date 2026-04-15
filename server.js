@@ -15,7 +15,7 @@ app.use(
     origin: [
       "http://localhost:5173", // Vite local
       "http://localhost:8080", // if used
-      "https://expense-tracker-frontend-m2icrv14w.vercel.app", // your deployed frontend
+      "expense-tracker-frontend-bttgvinc2.vercel.app", // your deployed frontend
     ],
     credentials: true,
   }),
